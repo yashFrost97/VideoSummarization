@@ -1,0 +1,11 @@
+1. Install Python 2.7 on the system.
+2. Install all dependent packages though pip. They are:
+	opencv-python, pillow, numpy, matplotlib, pandas, sklearn(scikit learn), moviepy, ffmpeg.
+	Also add ffmpeg to the path variable.
+3. Open command prompt.
+4. Navigate to the folder.
+5. Run the file "VideoSummarization.py" with the command: "python VideoSummarization.py".
+6. A Home Screen will pop up. Navigate to the "Select File" menu and select it.
+7. Select your video to summarize in the dialog box.
+8. Wait for the messages to pop.
+9. Your video is summarized! :)
